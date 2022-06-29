@@ -28,6 +28,13 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Democracy</dc:title>
 		<meta property="file-as" refines="#title">Democracy</meta>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="subtitle">An American Novel</dc:title>
+		<meta property="file-as" refines="#subtitle">American Novel, An</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">Democracy: An American Novel</dc:title>
+		<meta property="file-as" refines="#fulltitle">Democracy</meta>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Widows -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Political fiction</dc:subject>
 		<dc:subject id="subject-3">Washington (D.C.) -- Fiction</dc:subject>
@@ -43,40 +50,45 @@
 		<meta property="term" refines="#subject-4">sh2008106897</meta>
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">sh2008111214</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<meta property="se:subject">Satire</meta>
+		<dc:description id="description">A wealthy New York widow moves to Washington, DC, hoping to get “to the heart of the great American mystery of democracy and government.”</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;At age thirty, Madeleine Lee, a wealthy, wellborn widow, has tired of Gilded Age New York and its shallow society. She decides to spend the winter in Washington with her sister, renting a house on Lafayette Square, within easy reach of all the intense partying, horse-trading, and other activities that politics requires.&lt;/p&gt;
+			&lt;p&gt;As she makes friends (and enemies) with the locals, one question remains uppermost in Madeleine Lee’s mind: “Who, then, is right? How &lt;em&gt;can&lt;/em&gt; we all be right? Half of our wise men declare that the world is going straight to perdition; the other half that it is fast becoming perfect. Both cannot be right. There is only one thing in life that I must and will have before I die. I must know whether America is right or wrong.”&lt;/p&gt;
+			&lt;p&gt;She visits the White House, George Washington’s estate, and the newly established Arlington Cemetery, accompanied by politicians, diplomats, aristocrats, and the newly rich. But it’s not until a marriage offer from the ambitious Senator Silas P. Ratcliffe from Illinois that things come to a head. Mrs. Lee must decide what she is and isn’t willing to do to satisfy her own ambition for power, and whether she can trust herself to use that power for good.&lt;/p&gt;
+			&lt;p&gt;Descended from two presidents and a father who served under Lincoln as minister to the United Kingdom, &lt;a href="https://standardebooks.org/ebooks/henry-adams"&gt;Henry Adams&lt;/a&gt; (1838–1918) was born with immense privilege. As he wrote of himself in the third person in his autobiography, “Probably no child, born in the year, held better cards than he.” After growing up a Boston Brahmin, he worked as a journalist, historian, and professor, moving in early middle age to Washington.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Democracy: An American Novel&lt;/i&gt; was first published anonymously on April Fools’ Day in 1880. The fact that its author hid his identity helped make it a best seller, as readers tried to guess who was close enough to Washington society to portray it so knowingly—and maliciously.&lt;/p&gt;
+			&lt;p&gt;It wasn’t until two full years after Adams’s death that his publisher identified him as the novel’s author. His &lt;i&gt;Education of Henry Adams&lt;/i&gt;, published posthumously, won the 1919 Pulitzer Prize for Biography.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2815</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/bub_gb_WxcuvnuMzpMC</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Democracy</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Democracy:_An_American_Novel</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/henry-adams_democracy</meta>
 		<dc:creator id="author">Henry Adams</dc:creator>
 		<meta property="file-as" refines="#author">Adams, Henry</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Henry Brooks Adams</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Henry_Adams</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80013444</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Constantino Brumidi</dc:contributor>
+		<meta property="file-as" refines="#artist">Brumidi, Constantino </meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Constantino_Brumidi</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n81133845</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">An Anonymous Volunteer</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Anonymous Volunteer, An</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">David Widger</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_SORT</meta>
+		<meta property="file-as" refines="#transcriber-2">Widger, David</meta>
 		<meta property="se:url.authority.nacoaf" refines="#transcriber-2">http://id.loc.gov/authorities/names/no2011017869</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">John Rambow</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Rambow, John</meta>
+		<meta property="se:url.homepage" refines="#producer-1">http://johnrambow.com/</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">cov</meta>
