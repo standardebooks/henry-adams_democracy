@@ -21,7 +21,7 @@ footer{
 	font-variant: small-caps;
 }
 
-#chapter-14 [epub|type~="z3998:letter"] p:first-child{
+#chapter-14 [epub|type~="z3998:letter"] header > p:first-child{
 	font-variant: small-caps;
 	text-align: center;
 }
