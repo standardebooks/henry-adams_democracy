@@ -21,6 +21,12 @@ footer{
 	font-variant: small-caps;
 }
 
+[epub|type~="z3998:postscript"]{
+	margin-top: 1em;
+	text-align: initial;
+	text-indent: 0;
+}
+
 #chapter-14 [epub|type~="z3998:letter"] header > p:first-child{
 	font-variant: small-caps;
 	text-align: center;
