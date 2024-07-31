@@ -63,7 +63,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2815</dc:source>
 		<dc:source>https://archive.org/details/bub_gb_WxcuvnuMzpMC</dc:source>
-		<meta property="se:word-count">71723</meta>
+		<meta property="se:word-count">71716</meta>
 		<meta property="se:reading-ease.flesch">69.72</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Democracy:_An_American_Novel</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/henry-adams_democracy</meta>
