@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/henry-adams/democracy</dc:identifier>
 		<dc:date>2022-07-06T21:20:42Z</dc:date>
@@ -54,14 +54,14 @@
 		<meta property="term" refines="#subject-5">sh2008111214</meta>
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Satire</meta>
-		<dc:description id="description">A wealthy New York widow moves to Washington, DC, hoping to get “to the heart of the great American mystery of democracy and government.”</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>A wealthy New York widow moves to Washington, DC, hoping to get “to the heart of the great American mystery of democracy and government.”</dc:abstract>
+		<dc:description>
 			&lt;p&gt;At age thirty, Madeleine Lee, a wealthy, wellborn widow, has tired of Gilded Age New York and its shallow society. She decides to spend the winter in Washington with her sister, renting a house on Lafayette Square, within easy reach of all the intense partying, horse-trading, and other activities that politics requires.&lt;/p&gt;
 			&lt;p&gt;As she makes friends (and enemies) with the locals, one question remains uppermost in Madeleine Lee’s mind: “Who, then, is right? How &lt;em&gt;can&lt;/em&gt; we all be right? Half of our wise men declare that the world is going straight to perdition; the other half that it is fast becoming perfect. Both cannot be right. There is only one thing in life that I must and will have before I die. I must know whether America is right or wrong.”&lt;/p&gt;
 			&lt;p&gt;She visits the White House, George Washington’s estate, and the newly established Arlington Cemetery, accompanied by politicians, diplomats, aristocrats, and the newly rich. But it’s not until a marriage offer from an ambitious senator that things come to a head. Mrs. Lee must decide what she is and isn’t willing to do to satisfy her own ambition for power, and whether she can trust herself to use that power for good.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;Democracy: An American Novel&lt;/i&gt; was first published anonymously on April Fools’ Day in 1880. The fact that &lt;a href="https://standardebooks.org/ebooks/henry-adams"&gt;Adams&lt;/a&gt; hid his identity helped make it a best seller, as readers tried to guess who was close enough to Washington society to portray it so knowingly—and maliciously.&lt;/p&gt;
 			&lt;p&gt;It wasn’t until two full years after Adams’s death that his publisher identified him as the novel’s author.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2815</dc:source>
 		<dc:source>https://archive.org/details/bub_gb_WxcuvnuMzpMC</dc:source>
