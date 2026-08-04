@@ -54,7 +54,7 @@
 		<meta property="term" refines="#subject-5">sh2008111214</meta>
 		<meta property="schema:genre">Fiction</meta>
 		<meta property="schema:genre">Satire</meta>
-		<dc:abstract>A wealthy New York widow moves to Washington, DC, hoping to get “to the heart of the great American mystery of democracy and government.”</dc:abstract>
+		<meta property="schema:abstract">A wealthy New York widow moves to Washington, DC, hoping to get “to the heart of the great American mystery of democracy and government.”</meta>
 		<dc:description>
 			&lt;p&gt;At age thirty, Madeleine Lee, a wealthy, wellborn widow, has tired of Gilded Age New York and its shallow society. She decides to spend the winter in Washington with her sister, renting a house on Lafayette Square, within easy reach of all the intense partying, horse-trading, and other activities that politics requires.&lt;/p&gt;
 			&lt;p&gt;As she makes friends (and enemies) with the locals, one question remains uppermost in Madeleine Lee’s mind: “Who, then, is right? How &lt;em&gt;can&lt;/em&gt; we all be right? Half of our wise men declare that the world is going straight to perdition; the other half that it is fast becoming perfect. Both cannot be right. There is only one thing in life that I must and will have before I die. I must know whether America is right or wrong.”&lt;/p&gt;
